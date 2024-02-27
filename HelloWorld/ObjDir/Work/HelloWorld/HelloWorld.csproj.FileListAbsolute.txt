@@ -1,0 +1,15 @@
+F:\ Tekla\TeklaDemo\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\ Tekla\TeklaDemo\HelloWorld\bin\Debug\HelloWorld.exe
+F:\ Tekla\TeklaDemo\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\HelloWorld.csproj.AssemblyReference.cache
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\MainWindow.g.cs
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\App.g.cs
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\HelloWorld_MarkupCompile.cache
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\HelloWorld_MarkupCompile.lref
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\MainWindow.baml
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\HelloWorld.g.resources
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\HelloWorld.Properties.Resources.resources
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\HelloWorld.csproj.GenerateResource.cache
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\HelloWorld.csproj.CoreCompileInputs.cache
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\HelloWorld.exe
+F:\ Tekla\TeklaDemo\HelloWorld\ObjDir\Work\HelloWorld\HelloWorld.pdb

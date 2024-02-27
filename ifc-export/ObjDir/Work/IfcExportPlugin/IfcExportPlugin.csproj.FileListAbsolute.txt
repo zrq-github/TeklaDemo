@@ -1,0 +1,15 @@
+F:\ Tekla\TeklaDemo\ifc-export\IfcExportPlugin\bin\Debug\IfcExportPlugin.exe.config
+F:\ Tekla\TeklaDemo\ifc-export\IfcExportPlugin\bin\Debug\IfcExportPlugin.exe
+F:\ Tekla\TeklaDemo\ifc-export\IfcExportPlugin\bin\Debug\IfcExportPlugin.pdb
+F:\ Tekla\TeklaDemo\ifc-export\IfcExportPlugin\bin\Debug\MoreLinq.dll
+F:\ Tekla\TeklaDemo\ifc-export\IfcExportPlugin\bin\Debug\System.ValueTuple.dll
+F:\ Tekla\TeklaDemo\ifc-export\IfcExportPlugin\bin\Debug\MoreLinq.xml
+F:\ Tekla\TeklaDemo\ifc-export\IfcExportPlugin\bin\Debug\System.ValueTuple.xml
+F:\ Tekla\TeklaDemo\ifc-export\ObjDir\Work\IfcExportPlugin\IfcExportPlugin.csproj.AssemblyReference.cache
+F:\ Tekla\TeklaDemo\ifc-export\ObjDir\Work\IfcExportPlugin\IfcExportPlugin.IfcExportForm.resources
+F:\ Tekla\TeklaDemo\ifc-export\ObjDir\Work\IfcExportPlugin\IfcExportPlugin.Properties.Resources.resources
+F:\ Tekla\TeklaDemo\ifc-export\ObjDir\Work\IfcExportPlugin\IfcExportPlugin.csproj.GenerateResource.cache
+F:\ Tekla\TeklaDemo\ifc-export\ObjDir\Work\IfcExportPlugin\IfcExportPlugin.csproj.CoreCompileInputs.cache
+F:\ Tekla\TeklaDemo\ifc-export\ObjDir\Work\IfcExportPlugin\IfcExportPlugin.csproj.CopyComplete
+F:\ Tekla\TeklaDemo\ifc-export\ObjDir\Work\IfcExportPlugin\IfcExportPlugin.exe
+F:\ Tekla\TeklaDemo\ifc-export\ObjDir\Work\IfcExportPlugin\IfcExportPlugin.pdb

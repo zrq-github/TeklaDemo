@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeklaTestApplication", "TeklaTestApplication\TeklaTestApplication.csproj", "{BD086638-0039-43D0-B62F-644CECE1A4A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeklaUtils", "TeklaUtils\TeklaUtils.csproj", "{703409AC-1FA7-4C00-9790-08A1B82BC6CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeklaTestDrawApp", "TeklaTestDrawApp\TeklaTestDrawApp.csproj", "{F4FED373-7E47-4AD0-B52D-A5E340C2E362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry.CSharp", "Geometry.CSharp\Geometry.CSharp\Geometry.CSharp.csproj", "{5AD4539B-6617-4548-9633-282DD6B563A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD086638-0039-43D0-B62F-644CECE1A4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD086638-0039-43D0-B62F-644CECE1A4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD086638-0039-43D0-B62F-644CECE1A4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD086638-0039-43D0-B62F-644CECE1A4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703409AC-1FA7-4C00-9790-08A1B82BC6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703409AC-1FA7-4C00-9790-08A1B82BC6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703409AC-1FA7-4C00-9790-08A1B82BC6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703409AC-1FA7-4C00-9790-08A1B82BC6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4FED373-7E47-4AD0-B52D-A5E340C2E362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FED373-7E47-4AD0-B52D-A5E340C2E362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FED373-7E47-4AD0-B52D-A5E340C2E362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FED373-7E47-4AD0-B52D-A5E340C2E362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD4539B-6617-4548-9633-282DD6B563A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD4539B-6617-4548-9633-282DD6B563A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD4539B-6617-4548-9633-282DD6B563A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD4539B-6617-4548-9633-282DD6B563A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53ED87B-D9C6-4357-88A9-F3E4F0DEFA6C}
+	EndGlobalSection
+EndGlobal
